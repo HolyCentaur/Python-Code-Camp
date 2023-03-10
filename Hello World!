@@ -1,0 +1,3 @@
+# The print function just gives the output.
+print("Hello world!")
+# The output must have been - Hello World!
